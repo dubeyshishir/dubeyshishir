@@ -2,7 +2,6 @@
 <h3 align="center">In a process of being Developer</h3>
 
 <img align="right" alt ="coding" width = "400" src= "https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dubeyshishir&label=Profile%20views&color=0e75b6&style=flat" alt="dubeyshishir" /> </p>
 
 - 👽 I’m currently working on **a tech stuff, can change everything**
@@ -15,6 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/dubeyjishishir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dubeyjishishir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dubeyjishishir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dubeyjishishir" height="30" width="40" /></a>
 </p>
 
